@@ -18,7 +18,14 @@ outdoor1 = input("I'll go crazy if I do not go out of the house for the whole da
 
 music1 = input("I can see colours in my mind when i hear music.")
 
-tech_final = int(tech1) + int(tech2) outdoor_final = int(outdoor1) + int(outdoor2) music_final = int(music1)+ int(music2)
+print("What are you most interested in?")
+tech3 = input("I prefer creating apps")
+outdoor3 = input("I prefer going for an adventure")
+music3 = input("I prefer listening to music")      
+
+tech_final = int(tech1) + int(tech2) + int(tech3)
+outdoor_final = int(outdoor1) + int(outdoor2) + int(outdoor3)
+music_final = int(music1)+ int(music2) + int(music3)
 
 print("Are you excited to know your results?") 
 print("Here it is!")
