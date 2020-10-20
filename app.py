@@ -14,7 +14,7 @@ music2 = input("I can play a musical instrument well.")
 print("Which of these applies to you best?") 
 tech1 = input("I like building and fixing things.")
 
-outdoor1 = input("I'll go crazy if I do not go out of the house for the whole day.")
+outdoor1 = input("I'll go mad if I do not go out of the house for the whole day.")
 
 music1 = input("I can see colours in my mind when i hear music.")
 
