@@ -3,7 +3,7 @@ print()
 print("Welcome to DHS! Please answer the following questions truthfully and we'll suggest a CCA for you!") 
 print("Please respond with a number 1 - 5, where 1 is strongly disagree and 5 is strongly agree.") 
 
-print("What are you good at?")
+print("What are you skilled at?")
 
 tech2 = input("I know how to build apps and websites.")
 
